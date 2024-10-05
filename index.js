@@ -20,7 +20,8 @@ const translations = {
     "Arrive at Athens. Overnight stay. Chill out": "Chegada a Atenas. Estadia durante a noite. Relaxar",
     "Take a ferry from Athens to Milos islands": "Pegar um ferry de Atenas para as ilhas Milos",
     "Kayaking, Sunset at Plaka castle, Boat ride to Kleftiko.": "Caiaque, pôr do sol no castelo de Plaka, passeio de barco para Kleftiko.",
-    "Acropolis, Enjoy Greek food on Athens city walks": "Acrópole, aproveite a comida grega em caminhadas pela cidade de Atenas"
+    "Acropolis, Enjoy Greek food on Athens city walks": "Acrópole, aproveite a comida grega em caminhadas pela cidade de Atenas",
+    "© 2023 Hrishikesh Kelkar's page. All rights reserved. Send us your feedback at help@codechef.com": "© 2023 Página de Hrishikesh Kelkar. Todos os direitos reservados. Envie-nos seu feedback em help@codechef.com"
 };
 
 translateBtn.addEventListener('click', () => {
